@@ -3753,7 +3753,7 @@ MonoBehaviour:
   isStart: 0
   isQuit: 0
   pauseMenu: {fileID: 843898714}
-  _pauseButton: {fileID: 0}
+  _pauseButton: {fileID: 1085651782}
 --- !u!1001 &420512526
 PrefabInstance:
   m_ObjectHideFlags: 0

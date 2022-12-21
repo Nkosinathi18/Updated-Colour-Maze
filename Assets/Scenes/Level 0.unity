@@ -4151,7 +4151,7 @@ MonoBehaviour:
   isStart: 0
   isQuit: 0
   pauseMenu: {fileID: 1937245623}
-  _pauseButton: {fileID: 0}
+  _pauseButton: {fileID: 1085651782}
 --- !u!1 &410150832
 GameObject:
   m_ObjectHideFlags: 0
